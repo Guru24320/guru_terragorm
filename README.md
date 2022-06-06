@@ -1,1 +1,1 @@
-# guru_terragorm
+# guru_terraform
